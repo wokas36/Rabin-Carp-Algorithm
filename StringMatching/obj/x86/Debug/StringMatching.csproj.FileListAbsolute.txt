@@ -1,0 +1,5 @@
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\StringMatching\StringMatching\bin\Debug\StringMatching.exe
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\StringMatching\StringMatching\bin\Debug\StringMatching.pdb
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\StringMatching\StringMatching\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\StringMatching\StringMatching\obj\x86\Debug\StringMatching.exe
+c:\users\asiri wijesinghe\documents\visual studio 2010\Projects\StringMatching\StringMatching\obj\x86\Debug\StringMatching.pdb
